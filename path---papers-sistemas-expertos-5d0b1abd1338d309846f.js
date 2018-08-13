@@ -1,0 +1,2 @@
+webpackJsonp([0xe37ceac4c85c],{364:function(e,t){e.exports={data:{markdownRemark:{html:'<p>El despliegue de esta información se encuentra en construcción</p>\n<p><a href="https://drive.google.com/file/d/1rLmwDwfeVqscZ9KznuHiEIH1Ep7Gzh5o/view?usp=sharing">Visualizar PDF</a></p>',frontmatter:{title:"Sistemas Expertos"}}},pathContext:{slug:"/papers/sistemas-expertos/"}}}});
+//# sourceMappingURL=path---papers-sistemas-expertos-5d0b1abd1338d309846f.js.map
