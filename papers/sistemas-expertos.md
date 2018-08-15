@@ -113,26 +113,26 @@ En esta sección se plantean algunas cuestiones cuyas respuestas arrojan luz adi
 
 Preguntas:
 
-1) ¿Cuál es el impacto del proyecto CyC (OpenCyC) en el futuro de la Inteligencia Artificial?
+1 ) ¿Cuál es el impacto del proyecto CyC (OpenCyC) en el futuro de la Inteligencia Artificial?
 
-R/. Este proyecto plantea una posibilidad de crear sistemas expertos, modernos y con una capacidad de razonamiento parecida a la humana. Por lo anterior tenemos claramente un cambio en la forma de desarrollar sistemas inteligentes, lo que ayuda a crear un avance constante y sostenido en los próximos años.
+> R/. Este proyecto plantea una posibilidad de crear sistemas expertos, modernos y con una capacidad de razonamiento parecida a la humana. Por lo anterior tenemos claramente un cambio en la forma de desarrollar sistemas inteligentes, lo que ayuda a crear un avance constante y sostenido en los próximos años.
 
-2) ¿Cuál es la razón para que se prefieran (en algunas circunstancias) la utilización de lenguajes funcionales tipo PROLOG en el proceso de construcción de Sistemas Expertos, en oposición a lenguajes imperativos como JAVA?
+2 ) ¿Cuál es la razón para que se prefieran (en algunas circunstancias) la utilización de lenguajes funcionales tipo PROLOG en el proceso de construcción de Sistemas Expertos, en oposición a lenguajes imperativos como JAVA?
 
-R/. Esto se debe principalmente a la facilidad con que estos lenguajes permiten desarrollar reglas e inferir conocimiento, a partir de reglas definidas, son lenguajes que le llevan mucha ventaja a los basados en el paradigma imperativo a la hora de construir e inferir conocimiento.
+> R/. Esto se debe principalmente a la facilidad con que estos lenguajes permiten desarrollar reglas e inferir conocimiento, a partir de reglas definidas, son lenguajes que le llevan mucha ventaja a los basados en el paradigma imperativo a la hora de construir e inferir conocimiento.
 
-3) La heurística es una de las características más sobresalientes de la capacidad humana para resolver problemas de manera eficiente. ¿Podrá alguna vez emularse esta capacidad en un sistema experto? ¿Hasta qué punto podrá alcanzarse esta habilidad en un sistema artificial? ¿Qué tópicos deberían abordarse para alcanzar esta habilidad en un sistema artificial?
+3 ) La heurística es una de las características más sobresalientes de la capacidad humana para resolver problemas de manera eficiente. ¿Podrá alguna vez emularse esta capacidad en un sistema experto? ¿Hasta qué punto podrá alcanzarse esta habilidad en un sistema artificial? ¿Qué tópicos deberían abordarse para alcanzar esta habilidad en un sistema artificial?
 
-R/. Emular la inteligencia humana es algo que está muy lejos de lograrse y es que para aprender, hace falta razonamiento filosófico e independencia cognitiva un factor que no poseen los sistemas expertos actuales. Los sistemas expertos pueden esquematizar heurísticas para las que fueron creados, pero están limitados a un área de conocimiento ya que mezclar demasiadas puede generar un comportamiento inadecuado del sistema. Para crear un sistema artificial ideal se debe analizar primero la capacidad de aprendizaje del ser humano, más que su capacidad para procesar información es como procesarla y qué concluir de la misma.
+> R/. Emular la inteligencia humana es algo que está muy lejos de lograrse y es que para aprender, hace falta razonamiento filosófico e independencia cognitiva un factor que no poseen los sistemas expertos actuales. Los sistemas expertos pueden esquematizar heurísticas para las que fueron creados, pero están limitados a un área de conocimiento ya que mezclar demasiadas puede generar un comportamiento inadecuado del sistema. Para crear un sistema artificial ideal se debe analizar primero la capacidad de aprendizaje del ser humano, más que su capacidad para procesar información es como procesarla y qué concluir de la misma.
 
-4) Enumere un grupo de problemas de la región cuya solución pudiera abordarse con la aplicación sistemática de Sistemas Expertos.
+4 ) Enumere un grupo de problemas de la región cuya solución pudiera abordarse con la aplicación sistemática de Sistemas Expertos.
 
-R/. Corrupción en las cortes de justicia, con sistema que pudiera inferir a partir de las leyes de una nación, una sentencia exacta, lo que evitaría la manipulación en los procesos legales. Crisis económica de un país, con sistema que conozca los aspectos fundamentales tanto sociales como políticos, se podría crear una base de conocimiento que permita sacar
+> R/. Corrupción en las cortes de justicia, con sistema que pudiera inferir a partir de las leyes de una nación, una sentencia exacta, lo que evitaría la manipulación en los procesos legales. Crisis económica de un país, con sistema que conozca los aspectos fundamentales tanto sociales como políticos, se podría crear una base de conocimiento que permita sacar
 conclusiones acerca de los motivos que generan esa situación de riesgo.
 
-5) ¿Por qué razón el módulo de aprendizaje debe construirse mediante la utilización de una Red Neuronal? Justifique su respuesta.
+5 ) ¿Por qué razón el módulo de aprendizaje debe construirse mediante la utilización de una Red Neuronal? Justifique su respuesta.
 
-R/. Porque para aprender debemos generar conexiones nuevas y modificar otras existentes, este concepto de aprendizaje se logra a través de las redes neuronales en la actualidad.
+> R/. Porque para aprender debemos generar conexiones nuevas y modificar otras existentes, este concepto de aprendizaje se logra a través de las redes neuronales en la actualidad.
 
 **REFERENCIAS**
 
