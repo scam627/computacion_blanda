@@ -63,16 +63,16 @@ Módulo de comunicaciones: Este módulo permite al sistema experto la comunicaci
 
 **TIPOS DE LENGUAJES UTILIZADOS**
 
-_Prolog:_ Lenguaje de programación lógico e interpretado, ampliamente usado en el campo de la inteligencia artificial y en el diseño de sistemas expertos, debido al paradigma en el que se encuentra el cual está orientado para esta rama de las ciencias informáticas.
+_Prolog:_  Lenguaje de programación lógico e interpretado, ampliamente usado en el campo de la inteligencia artificial y en el diseño de sistemas expertos, debido al paradigma en el que se encuentra el cual está orientado para esta rama de las ciencias informáticas.
 
-_Lisp:_ Lisp debe su nombre a ser conocido como list processor es decir procesamiento de listas, y esto es básicamente porque la estructura de datos más importante de este lenguaje es la lista, internamente Lisp está compuesto de listas y con ellas maneja la recursividad en la que está 
+_Lisp:_  Lisp debe su nombre a ser conocido como list processor es decir procesamiento de listas, y esto es básicamente porque la estructura de datos más importante de este lenguaje es la lista, internamente Lisp está compuesto de listas y con ellas maneja la recursividad en la que está 
 basado el lenguaje, es usado ampliamente en el campo de la inteligencia artificial debido a su facilidad para manipular el código fuente como si fuese una estructura de datos, esto permite de manera más sencilla inferir nuevo conocimiento.
 
 **TIPOS DE HERRAMIENTAS UTILIZADAS**
 
-_SWI-PROLOG:_ Herramienta que implementa el lenguaje, prolog ampliamente conocido y usado en el campo de la IA, al principio fue usado para el procesamiento de lenguaje natural, pero con el tiempo adquirió popularidad en el desarrollo de sistemas expertos.
+_SWI-PROLOG:_  Herramienta que implementa el lenguaje, prolog ampliamente conocido y usado en el campo de la IA, al principio fue usado para el procesamiento de lenguaje natural, pero con el tiempo adquirió popularidad en el desarrollo de sistemas expertos.
 
-_CBR Express:_ Herramienta basada en la existencia de una librería de casos resueltos, de esta manera cuando se presenta una nueva situación el sistema recupera casos que se adapten lo mejor posible al actual para que el usuario pueda interpretar o ajustar la solución.
+_CBR Express:_  Herramienta basada en la existencia de una librería de casos resueltos, de esta manera cuando se presenta una nueva situación el sistema recupera casos que se adapten lo mejor posible al actual para que el usuario pueda interpretar o ajustar la solución.
 
 _ESB (Expert Build System) :_ Kit de herramientas de IA implementado con common lisp con la intención de industrializar el proceso de construcción de sistemas expertos.
 
