@@ -1,2 +1,2 @@
-webpackJsonp([0xf927f8900006],{360:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Computación Blanda",author:"Stiven Cardona Monsalve"}}},pathContext:{}}}});
+webpackJsonp([0xf927f8900006],{361:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Computación Blanda",author:"Stiven Cardona Monsalve"}}},pathContext:{}}}});
 //# sourceMappingURL=path---about-35d221f96b3aa0e7d131.js.map
