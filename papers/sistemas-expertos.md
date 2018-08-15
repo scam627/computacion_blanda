@@ -136,8 +136,11 @@ conclusiones acerca de los motivos que generan esa situación de riesgo.
 
 **REFERENCIAS**
 
-[1] Sistemas Expertos. ECURED. (2018) Disponible en: https://www.ecured.cu/Sistemas_expertos
+[1] Sistemas Expertos. ECURED. (2018)
+Disponible [aqui](https://www.ecured.cu/Sistemas_expertos)
 
-[2] Sebastián Badaró, Leonardo Javier Ibañez y Martín Jorge Agüero. “Sistemas Expertos: Fundamentos, Metodologías y Aplicaciones”. (2013) Disponible en: https://www.palermo.edu/ingenieria/pdf2014/13/CyT_13_24.pdf:
+[2] Sebastián Badaró, Leonardo Javier Ibañez y Martín Jorge Agüero. “Sistemas Expertos: Fundamentos, Metodologías y Aplicaciones”. (2013)
+Disponible [aqui](https://www.palermo.edu/ingenieria/pdf2014/13/CyT_13_24.pdf:)
 
-[3]Sistemas expertos y su aplicación en la medicina (1991) Disponible en: https://aprendeenlinea.udea.edu.co/revistas/index.php/iatreia/article/view/3457/3219
+[3] Sistemas expertos y su aplicación en la medicina (1991)
+Disponible [aqui](https://aprendeenlinea.udea.edu.co/revistas/index.php/iatreia/article/view/3457/3219)
