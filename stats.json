@@ -4,6 +4,10 @@
       "component---src-pages-index-js-e3376570590623820adf.js",
       "component---src-pages-index-js-e3376570590623820adf.js.map"
     ],
+    "path---papers-fundamentos": [
+      "path---papers-fundamentos-9fa9272893c732b15215.js",
+      "path---papers-fundamentos-9fa9272893c732b15215.js.map"
+    ],
     "path---": [
       "path----0586f25668deb93d03ea.js",
       "path----0586f25668deb93d03ea.js.map"
@@ -21,16 +25,16 @@
       "component---src-layouts-index-js-147a16fbee87385e4400.js.map"
     ],
     "path---index": [
-      "path---index-c2e8d426dc7e5eaf16fa.js",
-      "path---index-c2e8d426dc7e5eaf16fa.js.map"
+      "path---index-127aa3c8e866000f8ad1.js",
+      "path---index-127aa3c8e866000f8ad1.js.map"
     ],
     "component---src-pages-my-files-js": [
       "component---src-pages-my-files-js-85f7ef8ead9f4bef31df.js",
       "component---src-pages-my-files-js-85f7ef8ead9f4bef31df.js.map"
     ],
     "path---my-files": [
-      "path---my-files-97bc8e2a67dcb3d33116.js",
-      "path---my-files-97bc8e2a67dcb3d33116.js.map"
+      "path---my-files-28eff08ca0dc6ed80f7d.js",
+      "path---my-files-28eff08ca0dc6ed80f7d.js.map"
     ],
     "commons": [
       "commons-9bae42c77058169301a9.js",
@@ -46,14 +50,10 @@
       "path---papers-entrenamiento-perceptron-2ea4e02fcf4676680ba4.js",
       "path---papers-entrenamiento-perceptron-2ea4e02fcf4676680ba4.js.map"
     ],
-    "path---papers-escrito-se": [
-      "path---papers-escrito-se-3dcf2ad3784091123a6e.js",
-      "path---papers-escrito-se-3dcf2ad3784091123a6e.js.map"
-    ],
     "app": [
-      "app-b9cab80b284ed950828c.js",
+      "app-e91407016a086e59ddda.js",
       "build-js-styles.css",
-      "app-b9cab80b284ed950828c.js.map",
+      "app-e91407016a086e59ddda.js.map",
       "build-js-styles.css.map"
     ],
     "path---papers-sistemas-expertos": [
